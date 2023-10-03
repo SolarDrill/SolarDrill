@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolarDrill
 - 👀 I’m interested in APIs
-- 🌱 I’m currently learning Typescript, Javascript, Java
+- 🌱 I’m currently learning Python/Django, Javascript/NodeJS
 - 💞️ I’m looking to collaborate on Backend Open-source
 - 📫 How to reach me Món #1541 Discord, ramonsvnp@gmail.com
 
