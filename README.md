@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SolarDrill
-- 👀 I’m interested in APIs
-- 🌱 I’m currently learning Python/Django, Javascript/NodeJS/ReactJS
 - 💞️ I’m looking to collaborate on Backend Open-source
-- 📫 How to reach me Món #1541 Discord, ramonsvnp@gmail.com
+- 📫 How to reach me ramonsvnp@gmail.com
 
 <!---
 SolarDrill/SolarDrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
